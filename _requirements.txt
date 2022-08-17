@@ -1,0 +1,8 @@
+SQLAlchemy
+alembic
+uvicorn
+fastapi
+python-jose
+python-multipart
+python-socketio[client]==4.6.1
+geopy
